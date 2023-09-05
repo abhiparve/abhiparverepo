@@ -1,6 +1,3 @@
 Hello World Welcome to Abhijeet's Life
 Second Line Added
-<<<<<<< HEAD
-Second Line
-=======
->>>>>>> c28e5cb (First commit from Ohio)
+Third Line Added
